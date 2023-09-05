@@ -46,4 +46,4 @@ I'm Maria and I'm taking my first steps as a frontend-developer
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariaTsay&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MariaTsay&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariaTsay&theme=react&mode=weekly&card_width=500)](https://git.io/streak-stats)
