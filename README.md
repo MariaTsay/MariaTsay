@@ -14,11 +14,12 @@
   </a>
 </div>
 
-# Всем привет 👋
+# Hi there 👋
 
 ### :woman_technologist: About Me :
-* :hugs: Меня зовут Мария и я начинающий frontend-разработчик =)
-* :raised_hands: Люблю создавать красивые и удобные интерфейсы для пользователей
-* :rocket: Открыта к новым проектам
-* :mango: :peach: :apple: Жуткая фуктоежка
+I'm Maria and I'm taking my first steps as a frontend-developer
+* :dart: open to new projects and challenges
+* :iphone: love to make good-looking and convenient interfaces
+* :speech_balloon: speak russian, english, italian
+* :pineapple: fruits addicted
 
