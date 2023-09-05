@@ -9,7 +9,7 @@
   <a href="https://www.facebook.com/maria.tsay">
     <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
   </a>
-  <a href="mvtsay@gmail.com">
+  <a href="mailto:mvtsay@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
