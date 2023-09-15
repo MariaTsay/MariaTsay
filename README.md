@@ -19,7 +19,7 @@
 ### :woman_technologist: About Me :
 I'm Maria and I'm taking my first steps as a frontend-developer
 * :dart: open to new projects and challenges
-* :iphone: love to create good-looking and convenient interfaces
+* :iphone: love to create attractive and convenient interfaces
 * :speech_balloon: speak russian, english, italian
 * :pineapple: fruits addicted
 
