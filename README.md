@@ -48,3 +48,8 @@ I'm Maria and I'm taking my first steps as a frontend-developer
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariaTsay&theme=react&card_width=500)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaTsay&layout=compact&theme=vision-friendly-dark&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 [![codewars](https://www.codewars.com/users/MariaTsay/badges/large)](https://www.codewars.com/users/MariaTsay) 
+
+<div id="views" align="right">
+<img src="https://komarev.com/ghpvc/?username=MariaTsay" alt="Profile views" />
+</div>
+
